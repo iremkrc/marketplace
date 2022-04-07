@@ -67,7 +67,6 @@ Sellers Page contains the list of sellers in the database. Admin can search from
 ### Step 1: clone the project
     git clone https://github.com/iremkrc/marketplace.git
     cd marketplace
-    python3 manage.py runserver
     
 ### Step 2: install needed packages if they are not exist
     cd marketplace
